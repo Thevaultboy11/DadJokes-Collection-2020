@@ -1,8 +1,13 @@
-# Getting Started with Create React App
+![DadJokesCollection](readme_images/home.png)
+# DadJokes Collection 2020
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+DadJokes is a simple web application that pulls dad jokes from the icanhazdadjoke.com API and displays them to users. This was another project in my 2020 React.js course collection. In this project, I learned how to make API requests and manage state in React, enhancing my skills with asynchronous data fetching and dynamic rendering.
 
 ## Available Scripts
+
+To run the application you must first install the node_modules wih the comand. 
+
+### `npm install --force`
 
 In the project directory, you can run:
 
